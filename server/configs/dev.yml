@@ -1,0 +1,8 @@
+wiki:
+  serverPort: 8107
+  keylength: 6
+  mysqlUrl: localhost:3306
+  mysqlUsername: root
+  mysqlPassword: root
+  mysqlDatabasename: clubone
+  timezone: Asia/Shanghai
